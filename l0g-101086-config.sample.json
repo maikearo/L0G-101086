@@ -16,8 +16,8 @@
     "guilds":  [
                    {
                        "name":  "[guild]",
-                       "riority":  1,
-                       "pwebhook_url":  "",
+                       "priority":  1,
+                       "webhook_url":  "",
                        "gw2raidar_tag":  "",
                        "gw2raidar_category":  1,
 		       "threshold":  0,
